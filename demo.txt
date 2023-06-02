@@ -1,2 +1,3 @@
 hello 
 new thinggit add .
+new code
